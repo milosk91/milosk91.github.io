@@ -55,6 +55,7 @@ div.container {
 }
 @media (min-width: 768px) {
   .name {
+    display: block;
     z-index: 2;
     position: fixed;
     top: 30px;
